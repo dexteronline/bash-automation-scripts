@@ -1,5 +1,6 @@
 
 # 🛠️ Bash Automation Scripts by Harshit
+![Bash Lint Workflow](https://github.com/dexteronline/bash-automation-scripts/actions/workflows/bash-lint.yml/badge.svg)
 
 A curated set of Bash scripts built for system automation, DevOps routines, and productivity enhancement. These scripts reflect my hands-on learning and problem-solving approach as I transition into a remote DevOps role.
 
